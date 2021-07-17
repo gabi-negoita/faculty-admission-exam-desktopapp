@@ -1,0 +1,9 @@
+"Popescu", "Ionescu", "Bololoi", "Danciu", "Petrescu", "Chiciroiu", "Haidu", "Mocanu", "Bejan", "Sandu", "Negoita", "Stratulat", "Popa", "Serea", "Craciun", "Neagu", "Nitu", "Vasilescu", "Cojocaru", "Grigore", "Anastasiu", "Ciofu", "Stoica", "Gavrila", "Dinu"
+
+'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'L', 'M', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'V'
+
+"Mihai", "Dorin", "Ion", "Daniel", "Gabriel", "Iulian", "Paul", "Andrei", "Bogdan", "Dragos", "Rares", "Alexandru", "Catalin", "Aurelian", "Cristian", "Marian", "Manuel", "Sorin", "George", "Adrian", "Madalin", "Raul", "Valentin", "Razvan", "Niculae"
+
+"Mihaela", "Madalina", "Ioana", "Daniela", "Ionela", "Iuliana", "Paula", "Andreea", "Bianca", "Adelina", "Alina", "Corina", "Catalina", "Elisa", "Marina", "Gabriela", "Cristina", "Monica", "Elena", "Adriana", "Andra", "Raluca", "Valentina", "Oana", "Maria"
+
+"Colegiul National M. Kogalniceanu", "Colegiul National C. Negri", "Colegiul National V. Alecsandri", "Colegiul National Al. I. Cuza", "Colegiul National Spiru Haret", "Liceul Teoretic E. Racovita", "Colegiul National C. Hogas", "Liceul Teoretic M. Eliade", "Liceul Teoretic Dunarea", "Colegiul Economic"
